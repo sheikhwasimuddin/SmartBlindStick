@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Smart Blind Stick</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Smart Blind Stick</string>
+    <string name="dashboard_subtitle">Live Sensor Dashboard</string>
+
+    <string name="lidar_title">LiDAR Sensor</string>
+    <string name="water_title">Water Sensor</string>
+
+    <string name="lidar_value">Distance: %1$s cm</string>
+    <string name="water_value">Water Level: %1$s</string>
+
+    <string name="logout">Logout</string>
+
+</resources>
